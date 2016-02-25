@@ -1,3 +1,7 @@
+## 注意
+
+停止更新，转到 https://github.com/goreliu/vimdesktop
+
 ## ![icon](images/vimdesktop_32.jpg) VimDesktop
 
 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
