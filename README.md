@@ -7,19 +7,19 @@
 让所有 Windows 桌面程序拥有 Vim 操作风格的辅助工具
 
 ### 下载地址
-[最新版本](https://github.com/goreliu/vimdesktop/releases/latest)
+[最新版本](https://github.com/goreliu/vimdesktop.bak/releases/latest)
 
-[开发版本（无exe，请使用ahk运行）](https://github.com/goreliu/vimdesktop/archive/develop.zip)
+[开发版本（无exe，请使用ahk运行）](https://github.com/goreliu/vimdesktop.bak/archive/develop.zip)
 
 ### VimDesktop介绍
 
-[中文版](https://github.com/goreliu/vimdesktop/wiki)
+[中文版](https://github.com/goreliu/vimdesktop.bak/wiki)
 
-[English version](https://github.com/goreliu/vimdesktop/wiki/VimDesktop-Introduction-%5BEnglish-Version%5D)
+[English version](https://github.com/goreliu/vimdesktop.bak/wiki/VimDesktop-Introduction-%5BEnglish-Version%5D)
 
-[TC 快捷键列表](https://github.com/goreliu/vimdesktop/wiki/TC%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%88%97%E8%A1%A8)
+[TC 快捷键列表](https://github.com/goreliu/vimdesktop.bak/wiki/TC%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%88%97%E8%A1%A8)
 
-[更新历史](https://github.com/goreliu/vimdesktop/blob/develop/HISTORY.md)
+[更新历史](https://github.com/goreliu/vimdesktop.bak/blob/develop/HISTORY.md)
 
 ### 其他版本的VimDesktop
 [linxinhong](http://git.oschina.net/linxinhong) 的原版VimDesktop（仍在更新）：[oschina地址](http://git.oschina.net/linxinhong/VimDesktop) [github地址（已弃用）](https://github.com/linxinhong/VimDesktop)
